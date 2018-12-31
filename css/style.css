@@ -919,6 +919,9 @@ button:focus {
       -moz-transition: all 0.3s ease 0s;
       -o-transition: all 0.3s ease 0s;
       transition: all 0.3s ease 0s; }
+      @media (min-width: 1921px) {
+        .team_item .team_img .hover {
+          padding-left: 20px; } }
       @media (max-width: 767px) {
         .team_item .team_img .hover {
           padding-left: 20px; } }

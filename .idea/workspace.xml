@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a042ad10-be9d-4e1e-a949-ce9c0dad9e23" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/_DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/_DS_Store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/css/_DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/css/_DS_Store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/css/normalize.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/css/normalize.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/fonts/_DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/fonts/_DS_Store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/js/_DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/js/_DS_Store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/js/jquery-1.11.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/js/jquery.nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/js/jquery.nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/_DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/_DS_Store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shAutoloader.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shAutoloader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushAS3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushAS3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushAppleScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushAppleScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushBash.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushBash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushCSharp.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushCSharp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushColdFusion.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushColdFusion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushCpp.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushCpp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushCss.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushCss.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushDelphi.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushDelphi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushDiff.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushDiff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushErlang.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushErlang.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushGroovy.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushGroovy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushJScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushJScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushJava.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushJava.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushJavaFX.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushJavaFX.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushPerl.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushPerl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushPhp.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushPhp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushPlain.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushPlain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushPowerShell.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushPowerShell.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushPython.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushPython.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushRuby.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushRuby.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushSass.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushSass.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushScala.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushScala.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushSql.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushSql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushVb.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushVb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushXml.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shBrushXml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shCore.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shCore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shLegacy.js" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/scripts/shLegacy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCore.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCore.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreDefault.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreDefault.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreDjango.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreDjango.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreEclipse.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreEclipse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreEmacs.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreEmacs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreFadeToGrey.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreFadeToGrey.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreMDUltra.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreMDUltra.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreMidnight.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreMidnight.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreRDark.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shCoreRDark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeDefault.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeDefault.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeDjango.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeDjango.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeEclipse.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeEclipse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeEmacs.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeEmacs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeFadeToGrey.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeFadeToGrey.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeMDUltra.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeMDUltra.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeMidnight.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeMidnight.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeRDark.css" beforeDir="false" afterPath="$PROJECT_DIR$/Taxa Adventure-doc/syntax-highlighter/styles/shThemeRDark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-trip.html" beforeDir="false" afterPath="$PROJECT_DIR$/book-trip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact_process.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact_process.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/breadcrumb.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/breadcrumb.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner/banner-map.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner/banner-map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/add.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/add.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/author.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/author.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/c1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/c1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/c2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/c2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/c3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/c3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/c4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/c4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/c5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/c5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/c6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/c6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/cat-post/cat-post-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/cat-post/cat-post-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/cat-post/cat-post-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/cat-post/cat-post-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/cat-post/cat-post-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/cat-post/cat-post-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/causes/causes-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/causes/causes-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/causes/causes-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/causes/causes-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/causes/causes-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/causes/causes-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/feature-img1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/feature-img1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/main-blog/m-blog-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/main-blog/m-blog-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/main-blog/m-blog-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/main-blog/m-blog-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/main-blog/m-blog-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/main-blog/m-blog-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/main-blog/m-blog-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/main-blog/m-blog-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/main-blog/m-blog-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/main-blog/m-blog-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/next.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/next.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/popular-post/post1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/popular-post/post1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/popular-post/post2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/popular-post/post2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/popular-post/post3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/popular-post/post3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/popular-post/post4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/popular-post/post4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post-img1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/post-img1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/post-img2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/post-img2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/prev.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/prev.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/_DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/_DS_Store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/a2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/a2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/d.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/d.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/disabled-check.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/disabled-check.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/disabled-radio.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/disabled-radio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/f1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/f2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/f3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/f4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/f5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/f6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/f7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/f8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/f8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/g1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/g2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/g3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/g4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/g5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/g6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/g7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/g8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/g8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/primary-check.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/primary-check.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/primary-radio.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/primary-radio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/success-check.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/success-check.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/success-radio.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/success-radio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/user1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/user1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/elements/user2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/elements/user2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/i1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/i1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/i2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/i2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/i3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/i3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/i4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/i4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/i5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/i5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/i6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/i6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/i7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/i7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/i8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/i8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/gmaps.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/gmaps.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.ajaxchimp.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.form.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.validate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.validate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/mail-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/mail-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/stellar.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/stellar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages.html" beforeDir="false" afterPath="$PROJECT_DIR$/packages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepros-6.config" beforeDir="false" afterPath="$PROJECT_DIR$/prepros-6.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_banner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_blog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_blog.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_elements.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_elements.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_predefine.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_predefine.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_responsive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_responsive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/single-blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/animate-css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/animate-css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/animate-css/wow.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/animate-css/wow.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-select.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-select.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-select.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/bootstrap-datepicker/bootstrap-select.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/counter-up/jquery.counterup.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/counter-up/jquery.counterup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/counter-up/jquery.waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/counter-up/jquery.waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/flipclock/timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/flipclock/timer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/isotope/imagesloaded.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/isotope/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/isotope/isotope-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/isotope/isotope-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/jquery-ui/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/jquery-ui/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/jquery-ui/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/jquery-ui/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/lightbox/simpleLightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/lightbox/simpleLightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/lightbox/simpleLightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/lightbox/simpleLightbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.eot" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.svg" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/linericon/fonts/Linearicons-Free.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/linericon/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/linericon/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/nice-select/css/nice-select.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/nice-select/css/nice-select.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/nice-select/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/nice-select/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/nice-select/js/jquery.nice-select.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/nice-select/js/jquery.nice-select.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/nice-select/js/jquery.nice-select.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/nice-select/js/jquery.nice-select.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/owl-carousel/assets/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/owl-carousel/assets/ajax-loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/owl-carousel/assets/animated.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/owl-carousel/assets/animated.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/owl-carousel/assets/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/owl-carousel/assets/owl.carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/owl-carousel/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/owl-carousel/owl.carousel.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendors/owl-carousel/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendors/owl-carousel/owl.carousel.min.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book-trip.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1122">
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bemupgris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bemupgris" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548681939551" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a042ad10-be9d-4e1e-a949-ce9c0dad9e23" name="Default Changelist" comment="" />
+      <created>1548681457395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548681457395</updated>
+      <workItem from="1548681464417" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="267000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/book-trip.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
